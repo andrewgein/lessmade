@@ -1,15 +1,53 @@
-## Tech Stack
+# Привет! Я 1С-разработчик 🚀
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+> **Кодирую, автоматизирую и навожу порядок — в бизнес-процессах так же тщательно, как когда-то на рабочих местах.**
 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=<OFFICIAL_GRPC_SVG>&logoColor=white)
+## Обо мне
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- 💼 **10 лет опыта в Яндексе** — начинал с работы уборщиком, а затем пришёл к разработке и автоматизации.
+- 🧩 Специализируюсь на **1С:Предприятии**, автоматизации учёта и оптимизации бизнес-процессов.
+- 🇷🇺 Предпочитаю использовать **российские технологии и сервисы**.
+- 🎓 Выпускник университета **«Синергия»**.
+- 🛡️ Ценю надёжность, безопасность и аккуратный код.
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## Мой стек
+
+### Разработка и автоматизация
+
+![1С](https://img.shields.io/badge/1С-Предприятие-FF6B35?style=for-the-badge&logo=1c&logoColor=white)
+![1С:Предприятие](https://img.shields.io/badge/1С%3AПредприятие-Автоматизация-FF8C42?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Работа_с_данными-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Инструменты и инфраструктура
+
+![Windows](https://img.shields.io/badge/Windows-Рабочая_среда-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Yandex Cloud](https://img.shields.io/badge/Yandex-SourceCraft-FF0000?style=for-the-badge&logo=yandexcloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Контроль_версий-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Российские сервисы
+
+![GigaChat](https://img.shields.io/badge/Sber-GigaChat-21A038?style=for-the-badge&logo=sberbank&logoColor=white)
+![Kaspersky](https://img.shields.io/badge/Kaspersky-Защита-00A88E?style=for-the-badge&logo=kaspersky&logoColor=white)
+![Яндекс](https://img.shields.io/badge/Яндекс-Экосистема-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
+
+## Что умею
+
+- ⚙️ Разрабатывать и сопровождать решения на **1С:Предприятии**.
+- 📊 Автоматизировать рутинные операции и учёт.
+- 🔌 Интегрировать 1С с внешними сервисами и базами данных.
+- 🧹 Находить и устранять «бардак» в процессах, данных и коде.
+- 🔐 Соблюдать базовые принципы информационной безопасности.
+
+## Мой принцип
+
+```text
+Хорошая автоматизация — это когда бизнес работает быстрее,
+а пользователь успевает выпить кофе до того, как закончится отчёт.
+```
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Сделано_с_умом_и_любовью-1С-FF6B35?style=for-the-badge" alt="Сделано с умом и любовью">
+  <img src="https://img.shields.io/badge/Российские_технологии-в_деле-0B8F3C?style=for-the-badge" alt="Российские технологии в деле">
+</p>
